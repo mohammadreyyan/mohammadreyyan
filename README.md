@@ -15,10 +15,8 @@ I have a foundation in **HTML, CSS, and JavaScript** and am currently focusing o
 ---
 
 ## 📊 GitHub Stats
-![Mohammad Reyyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadreyyan&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreyyan&layout=compact&theme=radical)
-
----
+![Mohammad Reyyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadreyyan&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadreyyan&layout=compact&theme=tokyonight)
 
 ## 🚀 Goals
 - Solve programming problems using Java  
